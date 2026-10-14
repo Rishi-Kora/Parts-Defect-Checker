@@ -161,5 +161,5 @@ Open the link shown in the terminal (usually http://127.0.0.1:7860), then:
 
 ## Licence
 
-The code in this repository is released under the **[CHOOSE A LICENCE]** licence.
+The code in this repository is released under the **MIT** licence.
 The MVTec AD dataset is **not included** and keeps its own non-commercial licence.
